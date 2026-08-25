@@ -743,34 +743,26 @@ The project can be extended into a more production-ready architecture by adding:
 
 # 📸 Screenshots
 
-Recommended screenshots for the GitHub repository:
-
-```text
-screenshots/
-├── ec2-instance.png
-├── security-group.png
-├── shell-script.png
-├── apache-status.png
-├── mariadb-status.png
-├── wordpress-database.png
-├── wordpress-installation.png
-├── wordpress-dashboard.png
-└── live-website.png
-```
-
-Example:
-
-```markdown
+## EC2 Instance : 
 ![EC2 Instance](screenshots/ec2-instance.png)
 
+## Security Group : 
+![Security Group](screenshots/security-group.png)
+
+## Shell Script : 
 ![Shell Script](screenshots/shell-script.png)
 
+## WordPress Database : 
+![WordPress Database](screenshots/wordpress-database.png)
+
+## WordPress Installation : 
 ![WordPress Installation](screenshots/wordpress-installation.png)
 
+## WordPress Dashboard : 
 ![WordPress Dashboard](screenshots/wordpress-dashboard.png)
 
+## Live Website : 
 ![Live Website](screenshots/live-website.png)
-```
 
 ---
 
