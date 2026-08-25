@@ -627,35 +627,21 @@ For a more production-ready architecture, the project can be improved by adding:
                  AWS EC2
 ```
 
----
+---  
 
-# 📸 Screenshots
+# 📸 Screenshots :
 
-Add deployment screenshots to the repository:
-
-```text
-screenshots/
-├── ec2-instance.png
-├── security-group.png
-├── github-repository.png
-├── python-installation.png
-├── virtual-environment.png
-├── requirements-installation.png
-├── gunicorn-running.png
-└── deployed-website.png
-```
-
-Example:
-
-```markdown
+## EC2 Instance : 
 ![EC2 Instance](screenshots/ec2-instance.png)
 
+## Security Group : 
 ![Security Group](screenshots/security-group.png)
 
+## Gunicorn : 
 ![Gunicorn](screenshots/gunicorn-running.png)
 
+## Deployed Website : 
 ![Deployed Website](screenshots/deployed-website.png)
-```
 
 ---
 
