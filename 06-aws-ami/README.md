@@ -484,23 +484,31 @@ Successfully created and managed an AWS AMI by:
 
 ---
 
-# 📸 Screenshots
+# 📸 Screenshots :
 
-Add your practical screenshots in the following structure:
+## Launch EC2 Instance :
+![Launch EC2 Instance](screenshots/launch-ec2-instance.png)
 
-```text id="ami029"
-images/
-├── launch-ec2-instance.png
-├── configured-ec2-instance.png
-├── create-ami.png
-├── custom-ami-created.png
-├── launch-instance-from-ami.png
-├── copy-ami-to-another-region.png
-├── copied-ami-in-mumbai.png
-├── share-ami.png
-├── shared-ami.png
-└── deregister-ami.png
-```
+## Configured EC2 Instance :
+![Configured EC2 Instance](screenshots/configured-ec2-instance.png)
+
+## Create AMI :
+![Create AMI](screenshots/create-ami.png)
+
+## Custom AMI Created :
+![Custom AMI Created](screenshots/custom-ami-created.png)
+
+## Launch Instance from AMI :
+![Launch Instance from AMI](screenshots/launch-instance-from-ami.png)
+
+## Copy AMI to Another Region :
+![Copy AMI to Another Region](screenshots/copy-ami-to-another-region.png)
+
+## Copied AMI in Mumbai :
+![Copied AMI in Mumbai](screenshots/copied-ami-in-mumbai.png)
+
+## Deregister AMI :
+![Deregister AMI](screenshots/deregister-ami.png)
 
 ---
 
