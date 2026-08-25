@@ -545,31 +545,14 @@ A production architecture could look like:
 
 ---
 
-# 📸 Screenshots
+# 📸 Screenshots :
 
-Add project screenshots here:
-
-```text
-screenshots/
-├── ec2-instance.png
-├── security-group.png
-├── github-repository.png
-├── npm-install.png
-├── pm2-status.png
-└── deployed-website.png
-```
-
-Example:
-
-```markdown
-![EC2 Instance](screenshots/ec2-instance.png)
-
-![PM2 Status](screenshots/pm2-status.png)
-
-![Deployed Website](screenshots/deployed-website.png)
-```
-
----
+## EC2 Instance : ![EC2 Instance](screenshots/ec2-instance.png)
+## Security Group : ![Security Group](screenshots/security-group.png)
+## GitHub Repo : ![GitHub Repo](screenshots/github-repository.png)
+## NPM Installation : ![NPM Installation](screenshots/npm-install.png)
+## PM2 Status : ![PM2 Status](screenshots/pm2-status.png)
+## Deployed Website : ![Deployed Website](screenshots/deployed-website.png)
 
 # 👨‍💻 Author
 
